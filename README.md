@@ -32,7 +32,7 @@
 
 | 名称 | 简介 |
 |:--   |:--   |
-|[Android 插件化开发](http://#) | 介绍Android插件开发原理 
+|【电影】[蝴蝶效应](http://movie.douban.com/subject/1292343/) | 烧脑电影
 
 
 
