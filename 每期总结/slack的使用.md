@@ -23,9 +23,9 @@ channel, private channel, direct messages.
  ![图片](https://dn-coding-net-production-pp.qbox.me/bf2ed339-434d-4730-96e1-bd4f39ba7b09.png) 
 
 
-## 高级用法
+### 高级用法
 
-### [App](https://slack.com/apps)
+#### [App](https://slack.com/apps) 
 
 **/todo** : 在slack创建TODO，list
 **Statsbot** : 在slack发送统计消息，如Google Analytics.
@@ -42,9 +42,10 @@ channel, private channel, direct messages.
 
 **Wunderlist**：和wunderlist结合
 
-### [自定义](https://api.slack.com/custom-integrations)
+#### [自定义](https://api.slack.com/custom-integrations)
 可以干很多事情，具体看怎么使用了
 
 推荐文章：
-[湾区日报是如何运作的？](https://wanqu.co/blog/2015-05-24-behind-the-scenes.html)
-[使用Go开发一个 Slack 运维机器人](http://colobu.com/2015/11/04/create-a-slack-bot-with-golang/?utm_source=tuicool&utm_medium=referral)
+
+- [湾区日报是如何运作的？](https://wanqu.co/blog/2015-05-24-behind-the-scenes.html)
+- [使用Go开发一个 Slack 运维机器人](http://colobu.com/2015/11/04/create-a-slack-bot-with-golang/?utm_source=tuicool&utm_medium=referral)
