@@ -1,8 +1,3 @@
- 
-先放上前端小哥分享的ppt
- 
-<iframe src="//slides.com/hiawe/deck/embed" width="100%" height="620" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
 
 ## JavaScript
 
