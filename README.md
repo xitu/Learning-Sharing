@@ -22,7 +22,7 @@
 
 | 名称 | 简介 |
 |:--   |:--   |
-|[Android 插件化开发](http://#) | 介绍Android插件开发原理 
+|[Android 插件化开发原理](http://weishu.me/2016/02/16/understand-plugin-framework-binder-hook/) | 介绍Android插件开发原理 
 
 ## 工具
 
