@@ -54,8 +54,9 @@
 | 名称 | 简介 |
 |:--   |:--   |
 |【电影】[蝴蝶效应](http://movie.douban.com/subject/1292343/) | 烧脑电影
-|【电影】[疯狂动物城](http://movie.douban.com/subject/1292343/) | 好看电影
+|【电影】[疯狂动物城](https://movie.douban.com/subject/25662329/) | 好看电影
 |【游戏】[三位一体3（trine3）](http://www.gamersky.com/z/trine3/) | 冒险游戏，多人协作游戏
+
 
 
 
