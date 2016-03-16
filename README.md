@@ -42,7 +42,11 @@
 |【App】[Top of Tree](https://itunes.apple.com/jp/app/tree-2/id944654199?ls=1&mt=12)| 大纲
 |【App】[Scroll Reverser 2](https://pilotmoon.com/scrollreverser/)| 鼠标/触摸板方向改变
 |【App】[wunderlist](https://www.wunderlist.com/blog/)|  TODO
-|【网站】[Notion](https://www.notion.so) | 文档编辑，文档还可以进行视频聊天，
+|【网站】[Notion](https://www.notion.so) | 文档编辑，文档还可以进行视频聊天
+|【App】[f.lux](https://justgetflux.com/)|  屏幕变色，保护视力
+|【App】[Reveal](http://revealapp.com/)|   Reveal 是一个界面调试工具。可以在iOS开发时动态地查看和修改应用程序的界面。
+|【App】[MWeb](http://zh.mweb.im/)|  MWeb - 专业的Markdown写作、记笔记、静态博客生成软件 - MWeb
+
 
 
 ## 娱乐
@@ -50,6 +54,8 @@
 | 名称 | 简介 |
 |:--   |:--   |
 |【电影】[蝴蝶效应](http://movie.douban.com/subject/1292343/) | 烧脑电影
+|【电影】[疯狂动物城](http://movie.douban.com/subject/1292343/) | 好看电影
+|【游戏】[三位一体3（trine3）](http://www.gamersky.com/z/trine3/) | 冒险游戏，多人协作游戏
 
 
 
