@@ -49,6 +49,7 @@
 |【网站】[alfredworkflow](http://alfredworkflow.com/)|  Alfred 的 Workflow 大集合
 |【网站】[FlatIcon](http://www.flaticon.com/)|  扁平图标网站
 |【网站】[iconfont](http://iconfont.cn/)| 图标网站
+|【App】[Licecap](http://www.cockos.com/licecap/)| 免费开源录制 gif 软件，直观易用，功能灵活，支持 Windows 和 OSX 
 
 
 
