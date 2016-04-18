@@ -20,8 +20,8 @@
 | [HTML & CSS](http://xitu.github.io/2016/03/09/html-css/) | 2016-03-16 |
 | [小白学 Sketch - 画 Google icon](http://xitu.github.io/2016/03/24/sketch-google-icon/) | 2016-03-23 |
 | [React Native 入坑](http://xitu.github.io/2016/03/30/react-native-start/) | 2016-03-30 |
-
-
+| [git 指南](http://xitu.github.io/2016/04/06/git-start/) | 2016-04-06 |
+| [Vue.js 的组件化编程](http://xitu.github.io/2016/04/13/vuejs/) | 2016-04-13 |
 
 ## 技术
 
